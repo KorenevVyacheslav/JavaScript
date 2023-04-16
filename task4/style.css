@@ -1,0 +1,11 @@
+body {
+    background-color: #636b6f;
+}
+
+a {
+    color: rgb(198, 212, 69);
+    font-size: 20px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+}
+

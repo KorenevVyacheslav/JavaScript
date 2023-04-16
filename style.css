@@ -1,0 +1,28 @@
+body {
+    background-color: #636b6f;
+   
+}
+
+ul {
+    display:block;
+    width: 400px;
+}
+
+li {
+    
+    color: rgb(198, 212, 69);
+    font-size: 20px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    background: rgb(42, 32, 131);
+    border-radius: 5px;
+    border: 1px solid #FFF;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(198, 212, 69);
+    font-size: 20px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}  
+
